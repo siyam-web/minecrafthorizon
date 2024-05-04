@@ -45,7 +45,7 @@ Future Plan :
 
 > Aloan (Discord : `@aloan_tropical`)
 
-> ACB Chk (Discord : `bishangxrt`)
+> ACB Chk (Discord : `@bishangxrt`)
 
 > Bedrock Tweaks `bedrocktweaks.com`
 
