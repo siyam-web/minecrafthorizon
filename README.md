@@ -28,7 +28,7 @@ Future Plan :
 > 2. We Added New Mob Desert Parrot `#Mob02F`
 <image src="images/parrot.png"></image>
 
-> <h4><b>We are Working On :</b></h4>
+> **We are Working On : **
 
 - Biome Generation `#InRes05`
 - Structure Generation (Successful) `#InRes04` :white_check_mark:
