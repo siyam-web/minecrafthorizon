@@ -44,8 +44,6 @@ Future Plan :
 
 > MI Razin (Discord : `@mirazin.`)
 
-> Aloan (Discord : `@aloan_tropical`)
-
 > ACB Chk (Discord : `@bishangxrt`)
 
 > Bedrock Tweaks `bedrocktweaks.com`
